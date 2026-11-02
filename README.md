@@ -2,7 +2,7 @@
 
 > **Aluno:** Ronildo Mendes Viana  
 > **Curso:** Pós-Tech em Arquitetura e Desenvolvimento Java  
-> **Entrega:** Tech Challenge - Fase 2 (Individual)
+> **Entrega:** Tech Challenge - Fase 2 (Grupo/Individual)
 
 ---
 
